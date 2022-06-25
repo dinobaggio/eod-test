@@ -10,8 +10,11 @@ for running the code, execute this command
 
 ##  multi-thread
 `workers/averageValue.js` => `No 1 Thread-No`
+
 `workers/benefitA.js` => `No 2a Thread-No`
+
 `workers/benefitB.js` => `No 2b Thread-No`
+
 `workers/additionalBalance.js` => `No 3 Thread-No`
 
 ##  disclaimer
